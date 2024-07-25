@@ -1,10 +1,6 @@
 export const styles = {
   container: {
-    // width: "100%",
-    // alignItems: "center",
-    // justifyContent: "center",
     padding: 10,
-    // backgroundColor: "black",
   },
   signatureContainer: {
     borderRadius: 8,

@@ -1,6 +1,3 @@
-// import { colors } from "../../constantes/colors";
-// import { SIZE_TEXT_BOXES } from "../../constantes/SizeTextBoxes";
-
 export const styles = {
   container: {
     gap: 2,
